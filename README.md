@@ -62,3 +62,6 @@ Esta análise oferece insights importantes sobre a relação entre desempenho ac
 ## Contribuição
 
 Contribuições são bem-vindas! Por favor, envie um pull request ou abra uma issue para sugestões.
+
+## Dashboard da Análise
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWQ3MjA5MTYtMTEwZS00N2I1LWEzMTMtNWYwODQ5MzViMTNjIiwidCI6ImMwMDQ5YjAwLTU3NzktNDI1Yi04NTc3LWUyZWYwOWQ2YWVkZiJ9).
